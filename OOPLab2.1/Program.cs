@@ -6,7 +6,7 @@ namespace OOPLab2._1
     {
         static void Main(string[] args)
         {
-            Console.Write("Введiть ваш вiк: ");
+            Console.Write(" Введiть ваш вiк: ");
             int n = int.Parse(Console.ReadLine());
             int p = 0;
             if (n % 10 == 1 && n != 11)
